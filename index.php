@@ -81,7 +81,7 @@ session_regenerate_id(true);
 		
 		<marquee><div class="pagefooter">
 			<div class="copyright"><br><br><br><br><br><br><br>
-						INFO2180 Project 2014 - Cheapomail - Copyright by Stefan Cooper 620044726, Rickesha Pasmore 620052742,Tavia Wright 620058252.
+						INFO2180 Project 2014 - Cheapomail - Copyright by Stefan Cooper.
 			</div>
 		</div> </marquee>
 
