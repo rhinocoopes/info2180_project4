@@ -76,7 +76,7 @@ include ('connection.php');
 			<p> <button id="reg" onclick="gaza()">Register New User</button> 
 
 				<a href="view_users.php"><button id="view">View Users</button></p></a>
-<div id="register" style="display:none;" >
+<div id="register" style="display:nones;" >
         	
         	<form name="reg_form" id="reg_form" action="register_user.php" method="POST" onsubmit="return validateForm()"> 
 
